@@ -16,7 +16,7 @@ import java.util.Scanner;
     //makes a unique deck with 52 cards
     //makes two players
     //
-public class GameOfWar_AbeilMelles {
+public class GameOfWar {
 
 
 
